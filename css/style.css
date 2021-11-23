@@ -200,9 +200,9 @@ section h3::after {
 }
 .l-skill .Nilai {
 height: 30px;
-background-color:chocolate;
+background-color:#e0ca4c;
 display: inline-block;
-color: #fff;
+color: chocolate;
 text-align: center;
 width: 10%;
 transition: width 2s;
@@ -257,13 +257,13 @@ background-color: #567f86;
   float: left;
   text-align: center;
   padding:50px 10px;
-font-size:80%;
+font-size:75%;
 }
 .col-3 h4{
   padding-bottom: 10px;
   border-bottom: 1px solid #ddd;
   margin-bottom: 15px;
-font-size:100%;
+font-size:95%;
 }
 /* bagian footer */
 footer {
