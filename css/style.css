@@ -140,7 +140,7 @@ background-color:chocolate;
   font-size: 18px;
 }
 .banner h2, .banner p, .banner span {
-  color: white;
+  color: #e0ca4c;
 }
 
 section {
@@ -200,7 +200,7 @@ section h3::after {
 }
 .l-skill .Nilai {
 height: 30px;
-background-color:#e0ca4c;
+background-color:chocolate;
 display: inline-block;
 color: #fff;
 text-align: center;
